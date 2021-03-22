@@ -22,7 +22,7 @@ public class BarrigaTest extends BaseTest {
 	private static String CONTA_NAME = "Conta " + System.nanoTime();
 	private static Integer CONTA_ID;
 	private static Integer MOV_ID;
-	
+	//teste
 	@BeforeClass
 	public static void login() {
 		Map<String, String> login = new HashMap<>();
